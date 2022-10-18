@@ -7,6 +7,7 @@
     <title>MANAGE USERS</title>
 </head>
 <link rel="stylesheet" href="style.css">
+    
 <body>
     <section class="section">
         <h1 class="title">User Manager</h1>
